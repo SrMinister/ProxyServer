@@ -1,0 +1,5 @@
+name: WandProxy
+main: com.redewand.proxyserver.ProxyPlugin
+version: 1.0-ALPHA.all
+author: SrMinister_
+commands:
